@@ -40,3 +40,6 @@ Smooth Playback for exported files:
 
 https://github.com/user-attachments/assets/04711de7-1490-49e0-9b36-84d9d8335376
 
+Optimized GIF export delivers small filesize factor:
+
+![digital_technology_blue_earth_25_cut](https://github.com/user-attachments/assets/a31a45b1-0fa7-4730-a09d-3720368c20c3)
