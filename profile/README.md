@@ -33,8 +33,8 @@ $29, once, forever.
 - **Preview mode** - watch the final cut before exporting
 - **Audio waveform** - see speech and silence at a glance on the timeline
 
-  
-<img width="1033" height="817" alt="PoisedCuts" src="https://github.com/user-attachments/assets/5611f50c-b5c9-49ce-94d5-d8ab56dab845" />
+  <img width="1033" height="817" alt="PoisedCuts" src="https://github.com/user-attachments/assets/af00c918-e354-4812-a718-fb50d2184deb" />
+
 
 Smooth Playback for exported files:
 
