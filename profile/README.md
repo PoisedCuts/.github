@@ -7,7 +7,7 @@ Localfirst, buy once, own forever.
 
 <img width="1033" height="817" alt="PoisedCuts lossless video editor for Mac" src="https://github.com/user-attachments/assets/b6566df6-94d6-4e6a-8635-5708e197177e" />
 
-Download [here v1.0.0](https://github.com/PoisedCuts/app/releases/download/v1.0.0/PoisedCuts_1.0.0.dmg)
+Download [app v1.0.0](https://github.com/PoisedCuts/app/releases/download/v1.0.0/PoisedCuts_1.0.0.dmg)
 
 Looking for older Releases? [Go here](https://github.com/PoisedCuts/app/releases).
 
